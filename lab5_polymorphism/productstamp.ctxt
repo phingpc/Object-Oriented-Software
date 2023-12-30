@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=id\ cost\ productname\ stamp
+comment0.target=productstamp(java.lang.String,\ int,\ java.lang.String,\ int)
+numComments=1

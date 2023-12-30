@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DB()
+comment1.params=c
+comment1.target=void\ add(customer)
+comment2.params=c
+comment2.target=int\ search(java.lang.String)
+comment3.params=i
+comment3.target=customer\ getCustomerList(int)
+comment4.params=c
+comment4.target=void\ delete(customer)
+comment5.params=
+comment5.target=void\ showCust()
+numComments=6
