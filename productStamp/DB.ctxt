@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DB()
+comment1.params=p
+comment1.target=void\ addproduct(product)
+comment2.params=id\ price\ name\ stamp
+comment2.target=void\ addproduct(java.lang.String,\ int,\ java.lang.String,\ int)
+comment3.params=pId
+comment3.target=void\ deleteproduct(java.lang.String)
+comment4.params=pId\ price
+comment4.target=void\ editproduct(java.lang.String,\ int)
+comment5.params=pId
+comment5.target=product\ search(java.lang.String)
+comment6.params=
+comment6.target=void\ printAll()
+numComments=7

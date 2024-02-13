@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=productStamp()
+comment1.params=x\ y\ name\ stamp
+comment1.target=productStamp(java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getStamp()
+comment3.params=stamp
+comment3.target=void\ setStamp(int)
+numComments=4
