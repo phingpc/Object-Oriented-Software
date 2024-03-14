@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=EmployeeName\ EmployeeId\ EmployeeDepartment
+comment0.target=void\ printEmployeeDetails(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=1

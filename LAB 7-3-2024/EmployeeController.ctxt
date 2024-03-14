@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=model\ view
+comment0.target=EmployeeController(Employee,\ EmployeeView)
+comment1.params=name
+comment1.target=void\ setEmployeeName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEmployeeName()
+comment3.params=id
+comment3.target=void\ setEmployeeId(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getEmployeeId()
+comment5.params=Department
+comment5.target=void\ setEmployeeDepartment(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getEmployeeDepartment()
+comment7.params=
+comment7.target=void\ updateView()
+numComments=8
